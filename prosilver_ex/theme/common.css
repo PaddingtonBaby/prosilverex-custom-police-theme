@@ -1466,3 +1466,7 @@ a.icon-header-unlock { background-position: 0 -234px; }
 .online-indicator.offline {
   background-color: #ccc;
 }
+
+.n-color {
+    background: #efdb70 !important
+}
